@@ -4,11 +4,11 @@ This repository contains solutions for two problem sets focused on data engineer
 
 ## Problem Sets
 1. **Problem Set 1**: Time Difference Calculator (with API and Dockerization)
-   - [Task A](./Problem_Set_1/Task_A): CLI tool to compute timestamp differences.
-   - [Task B](./Problem_Set_1/Task_B): REST API for the same logic.
-   - [Task C](./Problem_Set_1/Task_C): Dockerized multi-instance deployment.
+   - [Task A](./problem-set-1/task-a): CLI tool to compute timestamp differences.
+   - [Task B](./problem-set-1/task-b): REST API for the same logic.
+   - [Task C](./problem-set-1/task-c): Dockerized multi-instance deployment.
 
-2. **Problem Set 2**: [IPDR Data Analysis](./Problem_Set_2)  
+2. **Problem Set 2**: [IPDR Data Analysis](./problem-set-2)  
    - Process VoIP call data to classify audio/video calls.
 
 ## Requirements
