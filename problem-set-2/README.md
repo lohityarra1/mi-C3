@@ -100,7 +100,7 @@ pip install pandas numpy openpyxl
 
 ## Usage
 
-1. Download the IPDR data from the provided Google Sheets link and save it as an Excel file named `ipdr_data.xlsx` in the same directory as the script.
+1. Download the IPDR data save it as an Excel file named `ipdr_data.xlsx` in the same directory as the script.
 
 2. Run the script:
 
