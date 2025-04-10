@@ -14,4 +14,4 @@ This repository contains solutions for two problem sets focused on data engineer
 ## Requirements
 - Python 3.9+
 - Docker (for Problem Set 1, Task C)
-- pandas (for Problem Set 2)
+- pandas,numpy (for Problem Set 2)
